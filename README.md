@@ -3,6 +3,8 @@
 Joshua Dinata
 100921955
 
+All files and supporting screenshots can be found in the files organized
+
 Part 1:
 2. 150 ohm resistor
 
