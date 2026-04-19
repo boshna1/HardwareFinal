@@ -5,8 +5,8 @@ Joshua Dinata
 
 All files and supporting screenshots can be found in the files organized
 
-Part 1 is not in the Controller files folder
-Part 2 controller files and screenshots are in the Controller Files folder
+Part 1 is not in the Controller files folder, labelled with Part1Cad
+Part 2 controller files and screenshots are in the Controller Files folder labelled with Controller___
 
 Part 1:
 2. 150 ohm resistor
