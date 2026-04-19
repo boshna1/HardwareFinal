@@ -3,6 +3,9 @@
 Joshua Dinata
 100921955
 
+Part 1:
+2. 150 ohm resistor
+
 Part 2:
 Game: Ice Climbers
 
